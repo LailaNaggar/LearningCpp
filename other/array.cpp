@@ -22,9 +22,9 @@ int main()
     int *array {new int[length]{}};
     for (int i=0; i<length; i++)
     {
-        cin>>array[i]
+        cin>>array[i];
     }
-    cout<<symmetic(array, length, num)
+    cout<<symmetic(array, length, num);
 
     
 

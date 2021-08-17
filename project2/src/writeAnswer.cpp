@@ -1,5 +1,6 @@
 #include "writeAnswer.h"
 #include "readNumber.h"
+#include <iostream>
 
 void writeAnswer()
 {
